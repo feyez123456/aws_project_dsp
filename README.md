@@ -19,7 +19,7 @@
 ## YOU CAN VERIFY LAMBDA BEING TRIGGERED IN ARS CLOUDWATCH LOGS 
 
 ## IMAGE 
-![alt text](https://github.com/feyez123456/aws_project_dsp/apiLambdaVersion/blob/master/image.png?raw=true)
+![alt text](https://github.com/feyez123456/apiLambdaVersion/image.png)
 ## CONTRIBUTERS :  (DSP ARCHI)
     -- BEHI Feyez
     -- BIROUK aymane 
